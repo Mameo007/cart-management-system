@@ -13,7 +13,7 @@ By digitizing the checkout process, this system enforces time limits, prevents c
 * **Secure Return Verification:** System-generated PINs given to residents by the RA to successfully close out a session.
 
 ## Tech Stack (Proposed)
-* **Frontend:** HTML / CSS / JavaScript (or React.js)
+* **Frontend:** HTML / CSS / React.js
 * **Backend & Database:** Firebase Realtime Database
 * **Integrations:** Twilio API (for SMS)
 
